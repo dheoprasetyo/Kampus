@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Kampus</string>
+    <string name="kampus_nama">Nama Kampus</string>
+    <string name="detail">Detail</string>
+    <string name="dummy_photos">6 photos</string>
+    <string name="dummy_value">Universitas Gunadarma</string>
+    <string name="content_text">Universitas Gunadarma (UG) atau biasa disebut Gunadarma, adalah salah satu Perguruan Tinggi Swasta di Indonesia. Kampus utamanya berada di Kota Depok, Jawa Barat.</string>
+    <string name="about">Aplikasi dibuat oleh</string>
+    <string name="my_name">Dheo Prasetyo</string>
+    <string name="About">About Me</string>
+    <string name="title_activity_about">About</string>
+</resources>
